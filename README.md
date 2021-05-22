@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 ![GitHub Logo](![image](https://user-images.githubusercontent.com/63607302/119240867-906d7a80-bb4a-11eb-8860-2e5910697b50.png)
 )
-Format: ![Alt Text](url)
+Format: ![Alt Text](![image](https://user-images.githubusercontent.com/63607302/119240882-aa0ec200-bb4a-11eb-9750-a1c8e149baba.png))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
