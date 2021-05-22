@@ -10,9 +10,9 @@ You can click the Preview link to take a look at your changes.
 - 🔭 I’m currently working on **NLP**
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/kishan-kalariya-a204441b0/)
 
-http://github.com - automatic!
-[GitHub](
+![GitHub Logo](![image](https://user-images.githubusercontent.com/63607302/119240867-906d7a80-bb4a-11eb-8860-2e5910697b50.png)
 )
+Format: ![Alt Text](url)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
