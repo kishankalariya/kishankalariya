@@ -5,15 +5,14 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Kishan</h1>
 <h3 align="center">AI and Data Science</h3>
 
-- 🔭 I’m currently working on **AI-NLP**
-
-- 🌱 I’m currently learning 
-- 
-- - 👋 Hi, I’m @kishankalariya
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning **AI & Data science**
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in **AI & Data science**
+- 🌱 I’m currently learning **Azure Cloud**
+- 🔭 I’m currently working on **NLP**
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/kishan-kalariya-a204441b0/)
+
+http://github.com - automatic!
+[GitHub](
+)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
