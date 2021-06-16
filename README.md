@@ -14,8 +14,8 @@ You can click the Preview link to take a look at your changes.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/kishan-kalariya-a204441b0/" target="blank"><img align="center" src="https://img-premium.flaticon.com/png/512/174/174857.png?token=exp=1621720085~hmac=d0374a9b8a3b4d8c7495183a39e29877" alt="kishankalariya" height="30" width="40" /></a>
- <a href="https://www.kaggle.com/kishankalariya" target="blank"><img align="center" src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/189_Kaggle_logo_logos-512.png" alt="kishankalariya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kishan-kalariya-a204441b0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="kishankalariya" height="30" width="40" /></a>
+ <a href="https://www.kaggle.com/kishankalariya" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/kaggle.svg" alt="kishankalariya" height="30" width="40" /></a>
 
 </p>
 
