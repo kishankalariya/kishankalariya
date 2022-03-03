@@ -8,7 +8,7 @@ You can click the Preview link to take a look at your changes.
 - 🌱 I’m currently pursing Msc in **Artificial Intelligence**
 - 👀 I’m interested in **Machine Learing, Deep Learning and Data Engineer**
 - 🌱 I’m currently learning **Azure Cloud, Power BI**
-- 🔭 I’m currently working on **NLP,RPA(Robotic process automation), Data Manipulation**  
+- 🔭 I’m currently working on **NLP, RPA (Robotic Process Automation), Data Manipulation**  
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/kishan-kalariya-a204441b0/)
 
 
