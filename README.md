@@ -9,6 +9,7 @@
 - 💪 Expertise in **Machine Learning (MLOPS), Data Engineering, and DevOps Engineering**
 - 🧑‍💻 Possesses strong technical skills in **Python, SQL, and JavaScript** programming languages
 - ☁️ Hands-on experience with **Azure Cloud and Google Cloud Platform** 
+- 📊 Practical expertise in data visualisation tools such as **Power BI and Google Data Studio**
 - 📚 Strong foundation in **NLP, RPA (Robotic Process Automation), and data modelling**
 - 🎓 A Master of Science degree in **Artificial Intelligence** and a Bachelor of Science degree in **Information Technology** 
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/kishan-kalariya-a204441b0/)
