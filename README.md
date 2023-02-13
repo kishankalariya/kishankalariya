@@ -5,10 +5,12 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Kishan</h1>
 <h3 align="center">AI and Data Science</h3>
 
-- 🌱 I’m currently pursing Msc in **Artificial Intelligence**
-- 👀 I’m interested in **Machine Learing, Deep Learning and Data Engineer**
-- 🌱 I’m currently learning **Azure Cloud, Power BI**
-- 🔭 I’m currently working on **NLP, RPA (Robotic Process Automation), Data Manipulation**  
+
+- 💪 Expertise in **Machine Learning (MLOPS), Data Engineering, and DevOps Engineering**
+- 🧑‍💻 Possesses strong technical skills in **Python, SQL, and JavaScript** programming languages
+- ☁️ Hands-on experience with **Azure Cloud and Google Cloud Platform** 
+- 📚 Strong foundation in  **NLP, RPA (Robotic Process Automation), and data modeling**
+- 🎓👨‍🎓 A Master of Science degree in **Artificial Intelligence** and a Bachelor of Science degree in **Information Technology** have been earned and completed
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/kishan-kalariya-a204441b0/)
 
 
