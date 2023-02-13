@@ -3,15 +3,17 @@ kishankalariya/kishankalariya is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Kishan</h1>
-<h3 align="center">AI and Data Science</h3>
+<!--  <h3 align="center">AI and Data Science</h3> -->
+
 
 
 - 💪 Expertise in **Machine Learning (MLOPS), Data Engineering, and DevOps Engineering**
 - 🧑‍💻 Possesses strong technical skills in **Python, SQL, and JavaScript** programming languages
-- ☁️ Hands-on experience with **Azure Cloud and Google Cloud Platform** 
-- 📚 Strong foundation in  **NLP, RPA (Robotic Process Automation), and data modeling**
-- 🎓👨‍🎓 A Master of Science degree in **Artificial Intelligence** and a Bachelor of Science degree in **Information Technology** have been earned and completed
+- ☁️ Hands-on experience with **Azure Cloud and Google Cloud Platform** 
+- 📚 Strong foundation in **NLP, RPA (Robotic Process Automation), and data modelling**
+- 🎓 A Master of Science degree in **Artificial Intelligence** and a Bachelor of Science degree in **Information Technology** have been earned and completed
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/kishan-kalariya-a204441b0/)
+
 
 
 <h3 align="left">Connect with me:</h3>
