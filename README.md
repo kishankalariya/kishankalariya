@@ -1,7 +1,6 @@
-<!---
-kishankalariya/kishankalariya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!---kishankalariya/kishankalariya is a ✨ special ✨ repository. Thank you for looking at my code, I really appreciate it.--->
+
+
 <h1 align="center">Hi 👋, I'm Kishan</h1>
 <!--  <h3 align="center">AI and Data Science</h3> -->
 
