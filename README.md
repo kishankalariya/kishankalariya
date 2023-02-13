@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 - 🧑‍💻 Possesses strong technical skills in **Python, SQL, and JavaScript** programming languages
 - ☁️ Hands-on experience with **Azure Cloud and Google Cloud Platform** 
 - 📚 Strong foundation in **NLP, RPA (Robotic Process Automation), and data modelling**
-- 🎓 A Master of Science degree in **Artificial Intelligence** and a Bachelor of Science degree in **Information Technology** have been earned and completed
+- 🎓 A Master of Science degree in **Artificial Intelligence** and a Bachelor of Science degree in **Information Technology** 
 - 📫 How to reach me [linkedin](https://www.linkedin.com/in/kishan-kalariya-a204441b0/)
 
 
